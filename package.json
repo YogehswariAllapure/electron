@@ -59,8 +59,9 @@
     "extends": null,
     "linux": {
       "target": [
-        "AppImage",
-        "zip"
+        "deb",
+        "snap",
+        "rpm"
       ]
     },
     "win": {
